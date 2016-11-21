@@ -1,0 +1,2 @@
+C:\Users\ikivanc\Documents\Visual Studio 2015\Projects\FirarperestX\FirarperestX\FirarperestX.Windows\FirarperestX.Windows.csproj;neutral
+C:\Users\ikivanc\Documents\Visual Studio 2015\Projects\FirarperestX\FirarperestX\FirarperestX\FirarperestX.csproj;neutral
